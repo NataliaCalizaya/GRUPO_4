@@ -28,9 +28,11 @@ Soy Martin Javier Echenique, tengo 19 años y me gusta tocar la guitarra
 Ruiz,Fernando Javier : Soy una persona entusiasta y determinada, siempre dispuesta a asumir nuevos desafíos. Me encanta aprender y crecer tanto a nivel personal como profesional.
 =======
 Hola me llamo Nahuel tengo 23 años y soy estudiante de diseño de videojuegos y ciberseguridad.
+
 Soy Cristian Rafael Zamora tengo 20 años y me gusta el mundo IT. 
 >>>>>>> b1c687b898744f6ad81635d4da9c21a4f098bc1b
 
+Hola soy Cayo Walter Julian, trabajo y me gusta jugar en celular en mi tiempo libre y me gusta programar.
 
 Archivo README.md con:
 
