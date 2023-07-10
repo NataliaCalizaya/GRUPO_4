@@ -30,9 +30,13 @@ Ruiz,Fernando Javier : Soy una persona entusiasta y determinada, siempre dispues
 Hola me llamo Nahuel tengo 23 años y soy estudiante de diseño de videojuegos y ciberseguridad.
 
 Soy Cristian Rafael Zamora tengo 20 años y me gusta el mundo IT. 
+<<<<<<< HEAD
 >>>>>>> b1c687b898744f6ad81635d4da9c21a4f098bc1b
 
 Hola soy Cayo Walter Julian, trabajo y me gusta jugar en celular en mi tiempo libre y me gusta programar.
+=======
+Me llamo Natalia Calizaya tengo 22 años, estudio Ing. Informatica en la FI de Unju, y me gusta el helado.Hola soy Cayo Walter Julian, trabajo y me gusta jugar en celular en mi tiempo libre y me gusta programar.
+>>>>>>> 4da1543312b4cc58539d27bdbf5060d5b26ec6e7
 
 Archivo README.md con:
 
