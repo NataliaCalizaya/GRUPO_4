@@ -27,15 +27,23 @@ Soy Martin Javier Echenique, tengo 19 años y me gusta tocar la guitarra
 Hola me llamo Nahuel tengo 23 años y soy estudiante de diseño de videojuegos y ciberseguridad.
 
 Soy Cristian Rafael Zamora tengo 20 años y me gusta el mundo IT. 
-Me llamo Natalia Calizaya tengo 22 años, estudio Ing. Informatica en la FI de Unju, y me gusta el helado.Hola soy Cayo Walter Julian, trabajo y me gusta jugar en celular en mi tiempo libre y me gusta programar.
+
+Me llamo Natalia Calizaya tengo 22 años, estudio Ing. Informatica en la FI de Unju, y me gusta el helado.
+
+Hola soy Cayo Walter Julian, trabajo y me gusta jugar en celular en mi tiempo libre y me gusta programar.
 
 Archivo README.md con:
 
 *** Listado de al menos 5 referentes.***
 
 https://www.samsung.com/ar/
+
 https://philco.com.ar/
+
 https://www.musimundo.com
+
 https://www.fravega.com/
+
 https://www.sony.com.ar/
+
 https://www.philips.com.ar/
