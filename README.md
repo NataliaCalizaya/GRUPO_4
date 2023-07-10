@@ -23,6 +23,7 @@ Productos electrónicos de consumo, además de varios teléfonos inteligentes pr
 ● Una breve descripción de los integrantes del equipo.
 
 Soy Martin Javier Echenique, tengo 19 años y me gusta tocar la guitarra
+
 Hola me llamo Nahuel tengo 23 años y soy estudiante de diseño de videojuegos y ciberseguridad.
 
 Archivo README.md con:
