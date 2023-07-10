@@ -41,4 +41,3 @@ https://www.philips.com.ar/
 
 
 
-Ruiz,Fernando Javier : Soy una persona entusiasta y determinada, siempre dispuesta a asumir nuevos desafíos. Me encanta aprender y crecer tanto a nivel personal como profesional.
