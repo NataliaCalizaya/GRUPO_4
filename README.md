@@ -24,6 +24,8 @@ Productos electrónicos de consumo, además de varios teléfonos inteligentes pr
 
 Soy Martin Javier Echenique, tengo 19 años y me gusta tocar la guitarra
 
+Ruiz,Fernando Javier : Soy una persona entusiasta y determinada, siempre dispuesta a asumir nuevos desafíos. Me encanta aprender y crecer tanto a nivel personal como profesional.
+
 
 Archivo README.md con:
 
@@ -38,5 +40,5 @@ https://www.philips.com.ar/
 
 
 
-Grupo Numero 4 
+
 Ruiz,Fernando Javier : Soy una persona entusiasta y determinada, siempre dispuesta a asumir nuevos desafíos. Me encanta aprender y crecer tanto a nivel personal como profesional.
