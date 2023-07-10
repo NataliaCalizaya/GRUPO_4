@@ -33,3 +33,5 @@ https://www.samsung.com/ar/
 https://philco.com.ar/
 https://www.musimundo.com
 https://www.fravega.com/
+https://www.sony.com.ar/
+https://www.philips.com.ar/
