@@ -35,3 +35,8 @@ https://www.musimundo.com
 https://www.fravega.com/
 https://www.sony.com.ar/
 https://www.philips.com.ar/
+
+
+
+Grupo Numero 4 
+Ruiz,Fernando Javier : Soy una persona entusiasta y determinada, siempre dispuesta a asumir nuevos desafíos. Me encanta aprender y crecer tanto a nivel personal como profesional.
