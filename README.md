@@ -22,7 +22,7 @@ Productos electrónicos de consumo, además de varios teléfonos inteligentes pr
 
 ● Una breve descripción de los integrantes del equipo.
 
-
+Soy Martin Javier Echenique, tengo 19 años y me gusta tocar la guitarra
 
 
 Archivo README.md con:
