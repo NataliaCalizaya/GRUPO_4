@@ -25,8 +25,10 @@ Productos electrónicos de consumo, además de varios teléfonos inteligentes pr
 Soy Martin Javier Echenique, tengo 19 años y me gusta tocar la guitarra
 
 Hola me llamo Nahuel tengo 23 años y soy estudiante de diseño de videojuegos y ciberseguridad.
+
 Soy Cristian Rafael Zamora tengo 20 años y me gusta el mundo IT. 
 
+Hola soy Cayo Walter Julian, trabajo y me gusta jugar en celular en mi tiempo libre y me gusta programar.
 
 Archivo README.md con:
 
