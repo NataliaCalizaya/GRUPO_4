@@ -23,9 +23,7 @@ Productos electrónicos de consumo, además de varios teléfonos inteligentes pr
 ● Una breve descripción de los integrantes del equipo.
 
 
-Me llamo Natalia Calizaya tengo 22 años, estudio Ing. Informatica en la FI de Unju, y me gusta el helado. 
-
-
+Me llamo Natalia Calizaya tengo 22 años, estudio Ing. Informatica en la FI de Unju, y me gusta el helado.
 Archivo README.md con:
 
 *** Listado de al menos 5 referentes.***
