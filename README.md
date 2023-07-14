@@ -32,7 +32,9 @@ Me llamo Natalia Calizaya tengo 22 años, estudio Ing. Informatica en la FI de U
 
 Hola soy Cayo Walter Julian, trabajo y me gusta jugar en celular en mi tiempo libre y me gusta programar.
 
-Hola, soy Lucas Ramos, tengo 18 años y me gusta jugar csgo y escuchar musica.
+Hola, soy Lucas Ramos, tengo 18 años y me gusta jugar csgo y escuchar musica.  
+
+Hola, soy Victoria Valencia, tengo 18 años y me gusta la programacion y las mandarinas.
 
 Archivo README.md con:
 
